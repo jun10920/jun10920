@@ -5,24 +5,24 @@ import Parser from 'rss-parser';
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = `# Hi there 👋
+let text = `## 낙관적 허무주의 개발자
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkdden)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abide0206)](https://solved.ac/abide0206/)
 
-## 이런 환경에 익숙해요✍🏼
-
-## 언어
-
-<p>
-  <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
-</p>
+---
 
 ## Contact me
 
-gangsuyun6@gmail.com
+jun109209@gmail.com
+
+---
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+---
 
 ## 📕 Latest Blog Posts
+
 <p>
     <a href="https://jun10920.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
 </p>

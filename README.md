@@ -4,14 +4,18 @@
 
 ---
 
+## Contact me
+
+jun109209@gmail.com
+
+---
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+---
+
 ## 📕 Latest Blog Posts
 
 <p>
     <a href="https://jun10920.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
 </p>
-
----
-
-## Contact me
-
-jun109209@gmail.com
