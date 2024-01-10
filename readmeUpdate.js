@@ -17,10 +17,6 @@ jun109209@gmail.com
 
 ---
 
-![](./profile-3d-contrib/profile-green-animate.svg)
-
----
-
 ## 📕 Latest Blog Posts
 
 <p>
