@@ -15,5 +15,3 @@ jun109209@gmail.com
 <p>
     <a href="https://jun10920.tistory.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a><br>
 </p>
-
-<a href=https://jun10920.tistory.com/15>이운규 변호사님의 주60시간 공부 챌린지 7기 회고</a></br><a href=https://jun10920.tistory.com/14>이것이 자료구조 + 알고리즘이다 책 리뷰 / 자료구조 책 추천</a></br><a href=https://jun10920.tistory.com/13>윤성우의 열혈 C 프로그래밍 리뷰 - C언어 교재 추천</a></br>
