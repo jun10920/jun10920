@@ -1,9 +1,5 @@
 ## 낙관적 허무주의 개발자
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=abide0206)](https://solved.ac/abide0206/)
-
----
-
 ## Contact me
 
 jun109209@gmail.com
