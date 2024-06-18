@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b0f4d,100:1c1c86&height=200&section=header&text=Welcome!%20Bamlatte's%20Github&fontColor=FFD700&fontSize=60&fontAlignY=35&desc=&descAlignY=65&descAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b0f4d,100:1c1c86&height=200&section=header&text=Welcome!%20Bamlatte's%20Github&fontColor=FFD700&fontSize=60&fontAlignY=35&desc=&descAlignY=65&descAlign=60&animation=fadeIn&speed=3)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbamlatte&count_bg=%23002f6c&title_bg=%23002f6c&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/bamlatte)
@@ -39,6 +39,7 @@
 <div>
 <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <img alt="JPA" src="https://img.shields.io/badge/JPA-007396.svg?&style=for-the-badge&logo=Hibernate&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
@@ -52,11 +53,11 @@
 <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
 </div>
 
-### 🛠️ Business Tools
+### 🛠️Tools
 <div>
 <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
 <img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
 </div>
 
