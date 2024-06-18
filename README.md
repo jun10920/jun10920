@@ -11,7 +11,9 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jun10920&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight">
 
 - 🌱 I’m currently learning `Spring Boot`, `JPA`, `Algorithm`
+  <br><br>
 - 🥇 Majoring in Software Engineering and Aviation Maintenance
+  <br><br>
 - 🚅 My hometown is Ilsan, Gyeonggi-do in Korea
 
 
