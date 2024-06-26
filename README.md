@@ -20,12 +20,12 @@
 <br><br>
 ## 💼 Experience
 
-- 🎓 Hanseo University, Software Engineering/Aviation Maintenance (2018.03 ~ 2025.02)
 - 🔥 Ureka, Uplus SW Academy (2024.06 ~ ongoing)
 - 📚 Algorithm Problem Study (2024.04 ~ ongoing)
 - 🦁 LikeLion 11th Generation (2023.03 ~ 2023.12)
 - 📊 Naver Data Science Study 13th Generation (2023.10 ~ 2023.11)
 - 🏅 SSAFY Ambassador 12th Generation (2024.03 ~ 2024.05)
+- - 🎓 Hanseo University, Software Engineering/Aviation Maintenance (2018.03 ~ 2025.02)
 
 ## 🛠️ Projects
 
