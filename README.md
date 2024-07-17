@@ -8,7 +8,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%EC%A4%80%ED%98%95-%EB%B0%95-1025952a9/)
 
 ## 🌟 Who Am I
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=jun10920&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=jun10920&show_icons=true&theme=tokyonight">
 
 - 🌱 I’m currently learning `Spring Boot`, `JPA`, `Algorithm`
   <br><br>
