@@ -10,47 +10,49 @@
 ## 🌟 Who Am I
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=jun10920&show_icons=true&theme=tokyonight">
 
-- 🌱 I’m currently learning `Spring Boot`, `JPA`, `Algorithm`
+- 🌱 I’m currently learning
+  <br>
+  `CS` `JAVA` `Spring Boot` `JPA` 
   <br><br>
 - 🥇 Majoring in Software Engineering and Aviation Maintenance
   <br><br>
-- 🚅 My hometown is Ilsan, Gyeonggi-do in Korea
+- 💪 I love Weight Training / Powerlifting
 
 
 <br><br>
 ## 💼 Experience
 
+- 💻 2024 Open Source Contribution Academy 2nd Session (2024.09 ~ ongoing)
+- 🔧 Open Source Mentoring 6th Generation (2024.08 ~ ongoing)
 - 🔥 Ureka, Uplus SW Academy (2024.06 ~ ongoing)
 - 📚 Algorithm Problem Study (2024.04 ~ ongoing)
 - 🦁 LikeLion 11th Generation (2023.03 ~ 2023.12)
 - 📊 Naver Data Science Study 13th Generation (2023.10 ~ 2023.11)
-- 🏅 SSAFY Ambassador 12th Generation (2024.03 ~ 2024.05)
 - 🎓 Hanseo University, Software Engineering/Aviation Maintenance (2018.03 ~ 2025.02)
+
 
 ## 🛠️ Projects
 
-- 🧑‍💼 [TrueEcho Project (2024.02 ~ ongoing)](https://github.com/TrueEchoProject/TrueEcho_Main)
+- 🫡 [Now, Here (2024.07 ~ ongoing)](https://github.com/now-here-5/Now-Here)
+- 🧑‍💼 [TrueEcho (2024.01 ~ 2024.07)](https://github.com/TrueEchoProject/TrueEcho_Main)
 - 📊 [Goyang_BBQ_Analysis (2023.12 ~ 2023.12)](https://github.com/jun10920/Goyang_BBQ_Analysis)
-- 🗂️ [TodoList for Database (2023.10 ~ 2023.11)](https://github.com/jun10920/TodoList-for-DB)
 
 ## 💻 Tech Skills
 
 ### ⚙️ Backend
 <div>
 <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
 <img alt="JPA" src="https://img.shields.io/badge/JPA-007396.svg?&style=for-the-badge&logo=Hibernate&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
+<img alt="nGrinder" src="https://img.shields.io/badge/nGrinder-4CAF50.svg?&style=for-the-badge&logoColor=white"/>
 </div>
 
 ### 🎨 Frontend
 <div>
-<img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
 </div>
 
 ### 🛠️Tools
@@ -72,10 +74,6 @@
 ## 🏆 Certificates
 - 정보처리기사
 - SQLD
+- OPIc / IM3
 - TOEIC / 915
-- OPIc / IM1
 
-## 🎉 What I Like
-
-- 💪 Weight Training / Powerlifting
-- 🎬 Watching Movies / Reading Books
