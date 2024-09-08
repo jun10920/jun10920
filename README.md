@@ -28,26 +28,9 @@
 
 ## 🌟 Open Source Contributions
 
-<table style="width: 100%; border-collapse: collapse; margin-bottom: 15px;">
-  <thead>
-    <tr style="background-color: #f3f4f6;">
-      <th style="padding: 12px; text-align: left; border: 1px solid #e5e7eb; width: 15%;">Project</th>
-      <th style="padding: 12px; text-align: left; border: 1px solid #e5e7eb; width: 10%;">Pull Request</th>
-      <th style="padding: 12px; text-align: left; border: 1px solid #e5e7eb; width: 40%;">Description</th>
-      <th style="padding: 12px; text-align: left; border: 1px solid #e5e7eb; width: 20%;">Component</th>
-      <th style="padding: 12px; text-align: left; border: 1px solid #e5e7eb; width: 15%;">Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 12px; border: 1px solid #e5e7eb;"><a href="https://github.com/spring-projects/spring-ai" style="color: #3b82f6; text-decoration: none;">spring-ai</a></td>
-      <td style="padding: 12px; border: 1px solid #e5e7eb;"><a href="https://github.com/spring-projects/spring-ai/pull/1324" style="color: #3b82f6; text-decoration: none;">#1324</a></td>
-      <td style="padding: 12px; border: 1px solid #e5e7eb;">Improve MiniMaxChatModel to handle Web Search responses</td>
-      <td style="padding: 12px; border: 1px solid #e5e7eb;">MiniMaxChatModel</td>
-      <td style="padding: 12px; border: 1px solid #e5e7eb;">🔄 In Progress</td>
-    </tr>
-  </tbody>
-</table>
+| Project | Pull Request | Description | Component | Status |
+|---------|--------------|-------------|-----------|--------|
+| [spring-ai](https://github.com/spring-projects/spring-ai) | [#1324](https://github.com/spring-projects/spring-ai/pull/1324) | Improve MiniMaxChatModel to handle Web Search responses | MiniMaxChatModel | 🔄 In Progress |
 
 <br>
 
