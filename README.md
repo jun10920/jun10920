@@ -17,22 +17,19 @@
 - 🥇 Majoring in Software Engineering and Aviation Maintenance
   <br><br>
 - 💪 I love Weight Training / Powerlifting
-<br><br>
+<br>
 
 ## 🛠️ Projects
 
 - 🫡 [Now, Here (2024.07 ~ ongoing)](https://github.com/now-here-5/Now-Here)
 - 🧑‍💼 [TrueEcho (2024.01 ~ 2024.07)](https://github.com/TrueEchoProject/TrueEcho_Main)
 - 📊 [Goyang_BBQ_Analysis (2023.12 ~ 2023.12)](https://github.com/jun10920/Goyang_BBQ_Analysis)
-<br>
 
 ## 🌟 Open Source Contributions
 
 | Project | Pull Request | Description | Component | Status |
 |---------|--------------|-------------|-----------|--------|
 | [spring-ai](https://github.com/spring-projects/spring-ai) | [#1324](https://github.com/spring-projects/spring-ai/pull/1324) | Improve MiniMaxChatModel to handle Web Search responses | MiniMaxChatModel | 🔄 In Progress |
-
-<br>
 
 ## 💼 Experience
 
@@ -43,7 +40,6 @@
 - 🦁 LikeLion 11th Generation (2023.03 ~ 2023.12)
 - 📊 Naver Data Science Study 13th Generation (2023.10 ~ 2023.11)
 - 🎓 Hanseo University, Software Engineering/Aviation Maintenance (2018.03 ~ 2025.02)
-
 
 ## 💻 Tech Skills
 
