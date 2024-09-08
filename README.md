@@ -21,7 +21,7 @@
 
 ## 🛠️ Projects
 
-- 🫡 [Now, Here (2024.07 ~ ongoing)](https://github.com/now-here-5/Now-Here)
+- 🫡 [Now, Here (2024.07 ~ ongoing)](https://github.com/now-here-5)
 - 🧑‍💼 [TrueEcho (2024.01 ~ 2024.07)](https://github.com/TrueEchoProject/TrueEcho_Main)
 - 📊 [Goyang_BBQ_Analysis (2023.12 ~ 2023.12)](https://github.com/jun10920/Goyang_BBQ_Analysis)
 
