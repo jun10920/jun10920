@@ -25,7 +25,7 @@
 - 🧑‍💼 [TrueEcho (2024.01 ~ 2024.07)](https://github.com/TrueEchoProject/TrueEcho_Main)
 - 📊 [Goyang_BBQ_Analysis (2023.12 ~ 2023.12)](https://github.com/jun10920/Goyang_BBQ_Analysis)
 
-## 🌟 Open Source Contributions
+## 🎶 Open Source Contributions
 
 | Project | Pull Request | Description | Component | Status |
 |---------|--------------|-------------|-----------|--------|
