@@ -28,11 +28,9 @@
 
 ## 🌟 Open Source Contributions
 
-### [spring-ai](https://github.com/spring-projects/spring-ai)
-
-| Pull Request | Description | Status |
-|--------------|-------------|--------|
-| [#1324](https://github.com/spring-projects/spring-ai/pull/1324) | Improve MiniMaxChatModel to handle Web Search responses | 🔄 In Progress |
+| Project | Pull Request | Description | Component | Status |
+|---------|--------------|-------------|-----------|--------|
+| [spring-ai](https://github.com/spring-projects/spring-ai) | [#1324](https://github.com/spring-projects/spring-ai/pull/1324) | Improve MiniMaxChatModel to handle Web Search responses | MiniMaxChatModel | 🔄 In Progress |
 
 <br>
 
