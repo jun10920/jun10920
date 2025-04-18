@@ -29,7 +29,7 @@
 | **Category**       | **Technologies** |
 |--------------------|------------------|
 | **Backend**        | Java, Spring Boot, PostgreSQL, MySQL, MariaDB, Redis, JPA, Caffeine Cache |
-| **DevOps & Tools** | GitHub Actions, AWS, GCP, Docker, Kubernetes, K6 |
+| **DevOps & Tools** | GitHub Actions, AWS, GCP, Docker, K6 |
 
 ---
 
